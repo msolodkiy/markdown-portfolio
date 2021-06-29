@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Strong Analytical skills*
+_Product Knowledge_
+
+**Agile mindset**
+__Scrum/Kanban__
